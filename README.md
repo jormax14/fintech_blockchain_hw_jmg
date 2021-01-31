@@ -3,5 +3,7 @@
 ~~~
 ./puppeth
 ~~~
-- creation of genesis block should have the below configuration in puppeth:
-![puppeth_configuration](/screenshots/puppeth_config_jmgcoin.png)
+- once genesis block configuration done, export the configuration into json file.
+~~~
+jmgcoin.json
+~~~
